@@ -2,7 +2,7 @@
 India is a major player in agriculture on the global stage, offers a fascinating landscape for understanding crop prediction, seasonal impacts, regional influences on yield, and the evolving trends in agricultural forecasting.
 So, join me on this exploration of Indian agriculture.
 
-![wherenext-think-tank-smart-agriculture-Card-826-x-465](https://github.com/L98S/agriculture-in-india/assets/110102931/06742101-7b54-4ccb-acdc-1fc936ebeb9f)
+![wherenext-think-tank-smart-agriculture-Card-826-x-465](https://github.com/L98S/Crop-Production-Insights-India-EDA-/assets/110102931/e4fcfb20-dc59-4481-a4d9-329782258ebc)
 
 
 ## About The Project: 
