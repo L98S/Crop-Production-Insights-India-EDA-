@@ -19,4 +19,7 @@ This project focuses on analyzing and predicting crop production using a dataset
 
 
 ## Link to the project:
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/L98S/agriculture-in-india/blob/main/Exploring%20Crop%20Production%20Patterns%20and%20Trends%20in%20India%3A%20Insights%2C%20Visualizations%2C%20and%20Analytical%20Predictions.ipynb)
+For the best experience please open this project on google colab [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1HdoEy3tX_unQdrEqhfRCBYRY1zpeKFkP?usp=sharing)
+I hope you enjoy this project as much as I did! 
+
+
