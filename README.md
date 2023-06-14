@@ -19,7 +19,7 @@ This project focuses on analyzing and predicting crop production using a dataset
 
 
 ## Link to the project:
-For the best experience please open this project on google colab [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1HdoEy3tX_unQdrEqhfRCBYRY1zpeKFkP?usp=sharing)
+Here is the project link on google colab [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1HdoEy3tX_unQdrEqhfRCBYRY1zpeKFkP?usp=sharing)
 I hope you enjoy this project as much as I did! 
 
 
